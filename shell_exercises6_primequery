@@ -61,5 +61,5 @@ then
 fi
 }
 
-check $0
-func $0
+check $@
+func $@
